@@ -8,7 +8,7 @@ Kaagapay is a free, private, locally-run AI wellness companion that speaks Hilig
 
 ## Live Demo
 
-[https://YOUR-USERNAME.github.io/kaagapay/](https://YOUR-USERNAME.github.io/kaagapay/)
+https://lordbeejay.github.io/Kaagapay/
 
 Note: The website is just the chat interface. The AI runs on your own computer, so you need to complete the setup below before using it.
 
